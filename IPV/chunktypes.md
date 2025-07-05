@@ -4,6 +4,7 @@
 
 | Hexcode    | Name                           |
 | ---------- | ------------------------------ |
+| 0x01000100 | AddCanvas                      |
 | 0x01000201 | BrushPatternSub                |
 | 0x01000202 | BrushParameterSub              |
 | 0x01000300 | EndEdit                        |
